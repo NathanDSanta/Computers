@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+	<channel>
+		<title>Reviews – SiSoftware</title>
+		<atom:link href="https://www.sisoftware.co.uk/category/reviews/feed/" rel="self" type="application/rss+xml"/>
+		<link>https://www.sisoftware.co.uk</link>
+		<description>Windows, Android, GPGPU, CUDA, OpenCL, analysers, diagnostic and benchmarking apps</description>
+		<lastBuildDate>Mon, 20 Nov 2023 13:56:06 +0000</lastBuildDate>
+		<language>en-GB</language>
+		<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+		<sy:updateFrequency>
+	1	</sy:updateFrequency>
+		<generator>https://wordpress.org/?v=6.4.3</generator>
+		<image>
+			<url>https://www.sisoftware.co.uk/wp-content/uploads/2015/12/cover2-64x64.png</url>
+			<title>Reviews – SiSoftware</title>
+			<link>https://www.sisoftware.co.uk</link>
+			<width>32</width>
+			<height>32</height>
+		</image>
+		<item>
+			<title>Intel 14th Gen Core RaptorLake-Refresh (i7 14700K(F)) Review &amp; Benchmarks – Hybrid Top-End Performance</title>
+			<link>https://www.sisoftware.co.uk/2023/10/30/intel-14th-gen-core-raptorlake-i7-14700kf-review-benchmarks-hybrid-top-end-performance/</link>
+			<dc:creator><![CDATA[Adrian Silasi]]></dc:creator>
+			<pubDate>Mon, 30 Oct 2023 12:00:52 +0000</pubDate>
+			<category><![CDATA[Reviews]]></category>
+			<category><![CDATA[14700k]]></category>
+			<category><![CDATA[14700kf]]></category>
+			<category><![CDATA[14th]]></category>
+			<category><![CDATA[atom]]></category>
+			<category><![CDATA[core]]></category>
+			<category><![CDATA[hybrid]]></category>
+			<category><![CDATA[i7]]></category>
+			<category><![CDATA[intel]]></category>
+			<category><![CDATA[raptorlake-refresh]]></category>
+			<category><![CDATA[rpl-r]]></category>
+			<guid isPermaLink="false">https://www.sisoftware.co.uk/?p=7242</guid>
+			<description><![CDATA[What is &#8220;RaptorLake-Refresh&#8221;? It is the &#8220;next-generation&#8221; (14th gen) Core architecture, refreshing the current &#8220;RaptorLake&#8221; (13th gen) and thus the 4th generation &#8220;hybrid&#8221; (aka &#8220;big.LITTLE&#8221;) arch that Intel has released. As before, it combines big/P(erformant) &#8220;Core&#8221; cores with LITTLE/E(fficient) &#8220;Atom&#8221; cores in a single package and covers everything from desktops, … <a class="continue-reading-link" href="https://www.sisoftware.co.uk/2023/10/30/intel-14th-gen-core-raptorlake-i7-14700kf-review-benchmarks-hybrid-top-end-performance/">Read more... <span class="meta-nav">&#8594; </span></a>]]></description>
+		</item>
+		<item>
+			<title>AVX10: A big improvement for x64 vectorisation but it’s not ARM SVE</title>
+			<link>https://www.sisoftware.co.uk/2023/08/03/avx10-a-big-improvement-for-x64-vectorisation-but-its-not-arms-sve/</link>
+			<dc:creator><![CDATA[Adrian Silasi]]></dc:creator>
+			<pubDate>Wed, 02 Aug 2023 23:01:33 +0000</pubDate>
+			<category><![CDATA[Reviews]]></category>
+			<category><![CDATA[avx]]></category>
+			<category><![CDATA[avx10]]></category>
+			<category><![CDATA[avx2]]></category>
+			<category><![CDATA[avx512]]></category>
+			<category><![CDATA[intel]]></category>
+			<guid isPermaLink="false">https://www.sisoftware.co.uk/?p=7126</guid>
+			<description><![CDATA[What is AVX10? It is a unification of current AVX (Advanced Vector eXtension) instruction sets (ISA) into a new version-based standard that is width-independent (i.e. applies to any width from 128, 256 and 512-bit). This allows different CPU cores (e.g. Atom, Core, Xeon, etc.) to use the same instruction set … <a class="continue-reading-link" href="https://www.sisoftware.co.uk/2023/08/03/avx10-a-big-improvement-for-x64-vectorisation-but-its-not-arms-sve/">Read more... <span class="meta-nav">&#8594; </span></a>]]></description>
+		</item>
+		<item>
+			<title>APX (Advanced Performance eXtensions): Talk in a decade or so</title>
+			<link>https://www.sisoftware.co.uk/2023/08/02/apx-advanced-performance-extensions-thanks-but-no-thanks/</link>
+			<dc:creator><![CDATA[Adrian Silasi]]></dc:creator>
+			<pubDate>Tue, 01 Aug 2023 23:01:37 +0000</pubDate>
+			<category><![CDATA[Reviews]]></category>
+			<category><![CDATA[apx]]></category>
+			<category><![CDATA[gpr]]></category>
+			<category><![CDATA[intel]]></category>
+			<guid isPermaLink="false">https://www.sisoftware.co.uk/?p=7112</guid>
+			<description><![CDATA[What is APX? It is a future update to the x64 (EM64T/AMD64) architecture (ISA) by Intel called &#8220;Advanced Performance eXtensions&#8221; that proposes: 32 vs. 16 64-bit general purpose registers (GPP) [aka 2x current] 3-operand instruction format conditional (aka predicated) instructions optimised register save/restore instructions As it is a somewhat fundamental … <a class="continue-reading-link" href="https://www.sisoftware.co.uk/2023/08/02/apx-advanced-performance-extensions-thanks-but-no-thanks/">Read more... <span class="meta-nav">&#8594; </span></a>]]></description>
+		</item>
+		<item>
+			<title>AMD Ryzen 7 7800X-3D (Zen4 V-Cache) Review &amp; Benchmarks – VCache for the Win!</title>
+			<link>https://www.sisoftware.co.uk/2023/04/23/amd-ryzen-7-7800x-3d-zen4-v-cache-review-benchmarks-vcache-for-the-win/</link>
+			<dc:creator><![CDATA[Adrian Silasi]]></dc:creator>
+			<pubDate>Sat, 22 Apr 2023 23:00:31 +0000</pubDate>
+			<category><![CDATA[Reviews]]></category>
+			<category><![CDATA[3d]]></category>
+			<category><![CDATA[7800x-3d]]></category>
+			<category><![CDATA[amd]]></category>
+			<category><![CDATA[ryzen]]></category>
+			<category><![CDATA[V-Cache]]></category>
+			<category><![CDATA[zen4]]></category>
+			<guid isPermaLink="false">https://www.sisoftware.co.uk/?p=7063</guid>
+			<description><![CDATA[What is &#8220;Zen4&#8221; (Ryzen 7000)? AMD&#8217;s Zen4 (&#8220;Raphael&#8221;) is the 4rd generation ZEN core &#8211; aka the new 7000-series of CPUs from AMD &#8211; that brings brand new features like AVX512 ISA (instruction set support), DDR5 and PCIe5. These do require a brand new platform (AM5) almost a decade since … <a class="continue-reading-link" href="https://www.sisoftware.co.uk/2023/04/23/amd-ryzen-7-7800x-3d-zen4-v-cache-review-benchmarks-vcache-for-the-win/">Read more... <span class="meta-nav">&#8594; </span></a>]]></description>
+		</item>
+		<item>
+			<title>AMD Ryzen 9 7950X-3D (Zen4 V-Cache) Review &amp; Benchmarks – A hybrid cache too far</title>
+			<link>https://www.sisoftware.co.uk/2023/02/28/amd-ryzen-9-7950x-3d-zen4-v-cache-review-benchmarks-a-hybrid-cache-too-far/</link>
+			<dc:creator><![CDATA[Adrian Silasi]]></dc:creator>
+			<pubDate>Tue, 28 Feb 2023 12:00:58 +0000</pubDate>
+			<category><![CDATA[Reviews]]></category>
+			<category><![CDATA[3d]]></category>
+			<category><![CDATA[amd]]></category>
+			<category><![CDATA[ryzen]]></category>
+			<category><![CDATA[V-Cache]]></category>
+			<category><![CDATA[zen4]]></category>
+			<guid isPermaLink="false">https://www.sisoftware.co.uk/?p=6950</guid>
+			<description><![CDATA[What is &#8220;Zen4&#8221; (Ryzen 7000)? AMD&#8217;s Zen4 (&#8220;Raphael&#8221;) is the 4rd generation ZEN core &#8211; aka the new 7000-series of CPUs from AMD &#8211; that brings brand new features like AVX512 ISA (instruction set support), DDR5 and PCIe5. These do require a brand new platform (AM5) almost a decade since … <a class="continue-reading-link" href="https://www.sisoftware.co.uk/2023/02/28/amd-ryzen-9-7950x-3d-zen4-v-cache-review-benchmarks-a-hybrid-cache-too-far/">Read more... <span class="meta-nav">&#8594; </span></a>]]></description>
+		</item>
+		<item>
+			<title>Intel 13th Gen Core RaptorLake (i9 13900K(F)) Review &amp; Benchmarks – Hybrid Top-End Performance</title>
+			<link>https://www.sisoftware.co.uk/2022/10/19/intel-13th-gen-core-raptorlake-i9-13900ks/</link>
+			<dc:creator><![CDATA[Adrian Silasi]]></dc:creator>
+			<pubDate>Tue, 18 Oct 2022 23:00:36 +0000</pubDate>
+			<category><![CDATA[Reviews]]></category>
+			<category><![CDATA[13900k]]></category>
+			<category><![CDATA[13900kf]]></category>
+			<category><![CDATA[13th]]></category>
+			<category><![CDATA[atom]]></category>
+			<category><![CDATA[core]]></category>
+			<category><![CDATA[hybrid]]></category>
+			<category><![CDATA[i9]]></category>
+			<category><![CDATA[intel]]></category>
+			<category><![CDATA[raptorlake]]></category>
+			<category><![CDATA[rpl]]></category>
+			<guid isPermaLink="false">https://www.sisoftware.co.uk/?p=5881</guid>
+			<description><![CDATA[What is &#8220;RaptorLake&#8221;? It is the &#8220;next-generation&#8221; (13th gen) Core architecture, replacing the current &#8220;AlderLake&#8221; (12th gen) and thus the 3rd generation &#8220;hybrid&#8221; (aka &#8220;big.LITTLE&#8221;) arch that Intel has released. As before it combines big/P(erformant) &#8220;Core&#8221; cores with LITTLE/E(fficient) &#8220;Atom&#8221; cores in a single package and covers everything from desktops, … <a class="continue-reading-link" href="https://www.sisoftware.co.uk/2022/10/19/intel-13th-gen-core-raptorlake-i9-13900ks/">Read more... <span class="meta-nav">&#8594; </span></a>]]></description>
+		</item>
+		<item>
+			<title>Intel 13th Gen Core RaptorLake (i5 13600K(F)) Review &amp; Benchmarks – Mid-Range Hybrid</title>
+			<link>https://www.sisoftware.co.uk/2022/10/18/intel-13th-gen-core-raptorlake-i5-13600k/</link>
+			<dc:creator><![CDATA[Adrian Silasi]]></dc:creator>
+			<pubDate>Mon, 17 Oct 2022 23:00:10 +0000</pubDate>
+			<category><![CDATA[Reviews]]></category>
+			<category><![CDATA[13600k]]></category>
+			<category><![CDATA[13600kf]]></category>
+			<category><![CDATA[13th]]></category>
+			<category><![CDATA[atom]]></category>
+			<category><![CDATA[core]]></category>
+			<category><![CDATA[hybrid]]></category>
+			<category><![CDATA[i5]]></category>
+			<category><![CDATA[intel]]></category>
+			<category><![CDATA[raptorlake]]></category>
+			<category><![CDATA[rpl]]></category>
+			<guid isPermaLink="false">https://www.sisoftware.co.uk/?p=6812</guid>
+			<description><![CDATA[What is &#8220;RaptorLake&#8221;? It is the &#8220;next-generation&#8221; (13th gen) Core architecture, replacing the current &#8220;AlderLake&#8221; (12th gen) and thus the 3rd generation &#8220;hybrid&#8221; (aka &#8220;big.LITTLE&#8221;) arch that Intel has released. As before it combines big/P(erformant) &#8220;Core&#8221; cores with LITTLE/E(fficient) &#8220;Atom&#8221; cores in a single package and covers everything from desktops, … <a class="continue-reading-link" href="https://www.sisoftware.co.uk/2022/10/18/intel-13th-gen-core-raptorlake-i5-13600k/">Read more... <span class="meta-nav">&#8594; </span></a>]]></description>
+		</item>
+		<item>
+			<title>Intel 13th Gen Core AlderLake-Refresh (i5 13400) Review &amp; Benchmarks – Value Hybrid Efficiency</title>
+			<link>https://www.sisoftware.co.uk/2022/10/15/intel-13th-gen-core-raptorlake-i5-13400/</link>
+			<dc:creator><![CDATA[Adrian Silasi]]></dc:creator>
+			<pubDate>Sat, 15 Oct 2022 18:00:02 +0000</pubDate>
+			<category><![CDATA[Reviews]]></category>
+			<category><![CDATA[13400]]></category>
+			<category><![CDATA[adl-r]]></category>
+			<category><![CDATA[alderlake]]></category>
+			<category><![CDATA[atom]]></category>
+			<category><![CDATA[core]]></category>
+			<category><![CDATA[hybrid]]></category>
+			<category><![CDATA[i5]]></category>
+			<category><![CDATA[intel]]></category>
+			<category><![CDATA[refresh]]></category>
+			<guid isPermaLink="false">https://www.sisoftware.co.uk/?p=6713</guid>
+			<description><![CDATA[What is &#8220;RaptorLake&#8221;? It is the &#8220;next-generation&#8221; (13th gen) Core architecture, replacing the current &#8220;AlderLake&#8221; (12th gen) and thus the 3rd generation &#8220;hybrid&#8221; (aka &#8220;big.LITTLE&#8221;) arch that Intel has released. As before it combines big/P(erformant) &#8220;Core&#8221; cores with LITTLE/E(fficient) &#8220;Atom&#8221; cores in a single package and covers everything from desktops, … <a class="continue-reading-link" href="https://www.sisoftware.co.uk/2022/10/15/intel-13th-gen-core-raptorlake-i5-13400/">Read more... <span class="meta-nav">&#8594; </span></a>]]></description>
+		</item>
+		<item>
+			<title>AMD Ryzen 5 7600X (Zen4 Raphael) Review &amp; Benchmarks – Value AVX512 Performance</title>
+			<link>https://www.sisoftware.co.uk/2022/09/22/amd-ryzen-5-7600x-zen4-raphael-review-benchmarks/</link>
+			<dc:creator><![CDATA[Adrian Silasi]]></dc:creator>
+			<pubDate>Wed, 21 Sep 2022 23:00:50 +0000</pubDate>
+			<category><![CDATA[Reviews]]></category>
+			<category><![CDATA[7600x]]></category>
+			<category><![CDATA[amd]]></category>
+			<category><![CDATA[avx512]]></category>
+			<category><![CDATA[ddr5]]></category>
+			<category><![CDATA[raphael]]></category>
+			<category><![CDATA[zen4]]></category>
+			<guid isPermaLink="false">https://www.sisoftware.co.uk/?p=6497</guid>
+			<description><![CDATA[What is &#8220;Zen4&#8221; (Ryzen 7000)? AMD&#8217;s Zen4 (&#8220;Raphael&#8221;) is the 4rd generation ZEN core &#8211; aka the new 7000-series of CPUs from AMD &#8211; that brings brand new features like AVX512 ISA (instruction set support), DDR5 and PCIe5. These do require a brand new platform (AM5) almost a decade since … <a class="continue-reading-link" href="https://www.sisoftware.co.uk/2022/09/22/amd-ryzen-5-7600x-zen4-raphael-review-benchmarks/">Read more... <span class="meta-nav">&#8594; </span></a>]]></description>
+		</item>
+		<item>
+			<title>AMD Ryzen 7 7700X (Zen4 Raphael) Review &amp; Benchmarks – AVX512 Mainstream Performance</title>
+			<link>https://www.sisoftware.co.uk/2022/09/21/amd-ryzen-7-7700x-zen4-raphael-review/</link>
+			<dc:creator><![CDATA[Adrian Silasi]]></dc:creator>
+			<pubDate>Wed, 21 Sep 2022 11:00:07 +0000</pubDate>
+			<category><![CDATA[Reviews]]></category>
+			<category><![CDATA[7700x]]></category>
+			<category><![CDATA[amd]]></category>
+			<category><![CDATA[avx512]]></category>
+			<category><![CDATA[ddr5]]></category>
+			<category><![CDATA[raphael]]></category>
+			<category><![CDATA[zen4]]></category>
+			<guid isPermaLink="false">https://www.sisoftware.co.uk/?p=6367</guid>
+			<description><![CDATA[What is &#8220;Zen4&#8221; (Ryzen 7000)? AMD&#8217;s Zen4 (&#8220;Raphael&#8221;) is the 4rd generation ZEN core &#8211; aka the new 7000-series of CPUs from AMD &#8211; that brings brand new features like AVX512 ISA (instruction set support), DDR5 and PCIe5. These do require a brand new platform (AM5) almost a decade since … <a class="continue-reading-link" href="https://www.sisoftware.co.uk/2022/09/21/amd-ryzen-7-7700x-zen4-raphael-review/">Read more... <span class="meta-nav">&#8594; </span></a>]]></description>
+		</item>
+		<item>
+			<title>AMD Ryzen 9 7950X (Zen4 Raphael) Review &amp; Benchmarks – AVX512 Top-End Domination</title>
+			<link>https://www.sisoftware.co.uk/2022/09/21/amd-ryzen-9-7950x-zen4-raphael-review/</link>
+			<dc:creator><![CDATA[Adrian Silasi]]></dc:creator>
+			<pubDate>Tue, 20 Sep 2022 23:00:36 +0000</pubDate>
+			<category><![CDATA[Reviews]]></category>
+			<category><![CDATA[7950x]]></category>
+			<category><![CDATA[amd]]></category>
+			<category><![CDATA[avx512]]></category>
+			<category><![CDATA[ddr5]]></category>
+			<category><![CDATA[raphael]]></category>
+			<category><![CDATA[zen4]]></category>
+			<guid isPermaLink="false">https://www.sisoftware.co.uk/?p=6264</guid>
+			<description><![CDATA[What is &#8220;Zen4&#8221; (Ryzen 7000)? AMD&#8217;s Zen4 (&#8220;Raphael&#8221;) is the 4rd generation ZEN core &#8211; aka the new 7000-series of CPUs from AMD &#8211; that brings brand new features like AVX512 ISA (instruction set support), DDR5 and PCIe5. These do require a brand new platform (AM5) almost a decade since … <a class="continue-reading-link" href="https://www.sisoftware.co.uk/2022/09/21/amd-ryzen-9-7950x-zen4-raphael-review/">Read more... <span class="meta-nav">&#8594; </span></a>]]></description>
+		</item>
+		<item>
+			<title>What Intel needs is SVE-like variable width SIMD-AVX to solve hybrid problem</title>
+			<link>https://www.sisoftware.co.uk/2022/09/06/what-intel-needs-is-sve-like-variable-width-avx-avx-v-to-solve-hybrid/</link>
+			<dc:creator><![CDATA[Adrian Silasi]]></dc:creator>
+			<pubDate>Tue, 06 Sep 2022 19:29:44 +0000</pubDate>
+			<category><![CDATA[Reviews]]></category>
+			<category><![CDATA[arm]]></category>
+			<category><![CDATA[avx]]></category>
+			<category><![CDATA[avx512]]></category>
+			<category><![CDATA[big]]></category>
+			<category><![CDATA[hybrid]]></category>
+			<category><![CDATA[intel]]></category>
+			<category><![CDATA[LITTLE]]></category>
+			<category><![CDATA[sve]]></category>
+			<guid isPermaLink="false">https://www.sisoftware.co.uk/?p=6247</guid>
+			<description><![CDATA[What are AVX, AVX512? AVX or &#8220;Advanced Vector eXtensions&#8221; is a family of SIMD instructions on x86/x64 that have expanded the old SSE/2 (Streaming SIMD Extensions) that themselves have extended/expanded the original SIMD x86 instruction set: MMX (Multi-Media eXtensions). AVX2 increases the width to 256-bit while AVX512 increases the width … <a class="continue-reading-link" href="https://www.sisoftware.co.uk/2022/09/06/what-intel-needs-is-sve-like-variable-width-avx-avx-v-to-solve-hybrid/">Read more... <span class="meta-nav">&#8594; </span></a>]]></description>
+		</item>
+		<item>
+			<title>big/LITTLE cores Performance Analysis – AlderLake to RaptorLake and beyond</title>
+			<link>https://www.sisoftware.co.uk/2022/08/29/big-little-cores-performance-analysis-alderlake-to-raptorlake/</link>
+			<dc:creator><![CDATA[Adrian Silasi]]></dc:creator>
+			<pubDate>Mon, 29 Aug 2022 13:45:17 +0000</pubDate>
+			<category><![CDATA[Reviews]]></category>
+			<category><![CDATA[adl]]></category>
+			<category><![CDATA[alderlake]]></category>
+			<category><![CDATA[big]]></category>
+			<category><![CDATA[core]]></category>
+			<category><![CDATA[intel]]></category>
+			<category><![CDATA[LITTLE]]></category>
+			<guid isPermaLink="false">https://www.sisoftware.co.uk/?p=6150</guid>
+			<description><![CDATA[What are &#8220;AlderLake&#8221;, &#8220;RaptorLake&#8221;? It is the current (12th gen) Core architecture &#8211; soon to be replaced by &#8220;RaptorLake&#8221; (RPL 13th gen) &#8211; that replaced the short-lived &#8220;RocketLake&#8221; (RKL &#8220;real&#8221; 10th gen aka ICL) that finally replaced the many, many &#8220;Skylake&#8221; (SKL) derivative architectures (6th-10th &#8220;fake&#8221; gen). It is the … <a class="continue-reading-link" href="https://www.sisoftware.co.uk/2022/08/29/big-little-cores-performance-analysis-alderlake-to-raptorlake/">Read more... <span class="meta-nav">&#8594; </span></a>]]></description>
+		</item>
+		<item>
+			<title>Intel Xeon W9 HEDT Sapphire Rapids Preview &amp; Benchmarks</title>
+			<link>https://www.sisoftware.co.uk/2022/07/27/intel-xeon-w9-hedt-sapphire-rapids-preview-benchmarks/</link>
+			<dc:creator><![CDATA[Adrian Silasi]]></dc:creator>
+			<pubDate>Wed, 27 Jul 2022 08:43:37 +0000</pubDate>
+			<category><![CDATA[Reviews]]></category>
+			<category><![CDATA[19]]></category>
+			<category><![CDATA[hedt]]></category>
+			<category><![CDATA[intel]]></category>
+			<category><![CDATA[rapids]]></category>
+			<category><![CDATA[sapphire]]></category>
+			<category><![CDATA[Xeon]]></category>
+			<guid isPermaLink="false">https://www.sisoftware.co.uk/?p=6058</guid>
+			<description><![CDATA[What is &#8220;Sapphire Rapids&#8221;? It is the &#8220;next-generation&#8221; Xeon (big Core-X) architecture, replacing the &#8220;Ice Lake X&#8221; / &#8220;Cascade Lake X&#8221; arch on HEDT platform. It consists only of big/P(erformant) gen 12 &#8220;Alder Lake X&#8221; cores (without any LITTLE/E(fficient) &#8220;Atom&#8221; cores) thus it is not a hybrid design. While mainly … <a class="continue-reading-link" href="https://www.sisoftware.co.uk/2022/07/27/intel-xeon-w9-hedt-sapphire-rapids-preview-benchmarks/">Read more... <span class="meta-nav">&#8594; </span></a>]]></description>
+		</item>
+	</channel>
+</rss>

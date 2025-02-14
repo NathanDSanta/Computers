@@ -1,0 +1,29 @@
+Creating child process "7z a -t7z MinGW.tar.7z MinGW.tar -m0=LZMA2 -md=64m -mx5 -mmt=500"
+Waiting for child process to finish...
+
+7-Zip 23.01 (x64) : Copyright (c) 1999-2023 Igor Pavlov : 2023-06-20
+
+Open archive: MinGW.tar.7z
+--
+Path = MinGW.tar.7z
+Type = 7z
+Physical Size = 42991170
+Headers Size = 122
+Method = LZMA2:26
+Solid = -
+Blocks = 1
+
+Scanning the drive:
+1 file, 194828800 bytes (186 MiB)
+
+Updating archive: MinGW.tar.7z
+
+Add new data to archive: 1 file, 194828800 bytes (186 MiB)
+
+
+Files read from disk: 1
+Archive size: 42991170 bytes (41 MiB)
+Everything is Ok
+Exit code of child process is 0. Closing handles...
+
+Elapsed time: 18.781 seconds

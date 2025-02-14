@@ -1,0 +1,97 @@
+SiSoftware Sandra
+
+Resultados de la prueba de rendimiento
+Rendimiento agregado de la aritmética : 284.56GOPS
+Dhrystone Integer AVX2 : 363GIPS
+Dhrystone Largo AVX2 : 344.64GIPS
+Whetstone Punto Flotante AVX/FMA : 243.88GFLOPS
+Whetstone Punto Flotante FP64 AVX/FMA : 204.09GFLOPS
+
+Rendimiento agregado de la aritmética
+Dhrystone Aggregated-int : 353.67GFLOPS
+Whetstone Punto Flotante FP32/FP64 : 223.1GFLOPS
+Interpretación de los resultados : Los valores de índices más altos son mejores.
+Multiplicadores de resultados en sistema decimal (base 10) : 1GOPS = 1000MOPS, 1MOPS = 1000kOPS, 1kOPS = 1000OPS, etc.
+
+Rendimiento por Thread
+Rendimiento agregado de la aritmética : 17.78GOPS
+Dhrystone Integer : 22.68GIPS
+Dhrystone Largo : 21.54GIPS
+Whetstone Punto Flotante : 15.24GFLOPS
+Whetstone Punto Flotante FP64 : 12.76GFLOPS
+Número de subprocesos : 16
+Interpretación de los resultados : Los valores de índices más altos son mejores.
+Multiplicadores de resultados en sistema decimal (base 10) : 1GOPS = 1000MOPS, 1MOPS = 1000kOPS, 1kOPS = 1000OPS, etc.
+
+Rendimiento frente a energía
+Energía de procesador(es) : 65.00W
+Rendimiento agregado de la aritmética : 4377.77MOPS/W
+Dhrystone Integer : 5583.69MIPS/W
+Dhrystone Largo : 5302.22MIPS/W
+Whetstone Punto Flotante : 3752.02MFLOPS/W
+Whetstone Punto Flotante FP64 : 3139.80MFLOPS/W
+Interpretación de los resultados : Los valores de índices más altos son mejores.
+
+Rendimiento frente a velocidad
+Rendimiento agregado de la aritmética : 59.38MOPS/MHz
+Dhrystone Integer : 75.74MIPS/MHz
+Dhrystone Largo : 71.92MIPS/MHz
+Whetstone Punto Flotante : 50.89MFLOPS/MHz
+Whetstone Punto Flotante FP64 : 42.59MFLOPS/MHz
+Interpretación de los resultados : Los valores de índices más altos son mejores.
+
+Estado de la prueba de rendimiento
+Identidad de resultado : 11th Gen Intel(R) Core(TM) i7-11700 @ 2.50GHz (8C 16T 4.79GHz, 3.9GHz/4.1GHz IMC, 8x 512kB L2, 16MB L3) (Microsoft HyperV)
+Microcódigo : MU06A70158
+Sistema : TEKNOSERVICE TEKNOPRO B560 MB (GigaByte B560M D3H)
+Cumplimiento de la plataforma : x64
+Apoyo de NUMA : No
+Número de subprocesos : 16
+Afinidad del procesador : U0-C0T0 U2-C1T0 U4-C2T0 U6-C3T0 U8-C4T0 U10-C5T0 U12-C6T0 U14-C7T0 U1-C0T1 U3-C1T1 U5-C2T1 U7-C3T1 U9-C4T1 U11-C5T1 U13-C6T1 U15-C7T1 
+Cronómetro del sistema : 10MHz
+Número de ejecuciones : 64000 / 640
+
+Procesador
+Modelo : 11th Gen Intel(R) Core(TM) i7-11700 @ 2.50GHz
+Velocidad : 4.79GHz
+Velocidad Mínimo/Máximo/Turbo : 800MHz - 2.5GHz - 4.8GHz
+Multiplicador Desbloqueado : Sí
+Núcleos por procesador : 8 Unidad(es)
+Subprocesos por núcleo : 2 Unidad(es)
+Velocidad del bus frontal : 100MHz
+Tipo : Virtualizado
+Revisión/Versión : A7 / 1
+Microcódigo : MU06A70158
+L1D - Caché interno de Datos Primer nivel : 8x 48kB, 12-Vía(s), 64bytes Tamaño de la Línea, 2 Subproces(os)
+L1I - Caché interno de Instrucciones Primer nivel : 8x 32kB, 8-Vía(s), 64bytes Tamaño de la Línea, 2 Subproces(os)
+L2D - Caché de Datos/Unificado Segundo nivel : 8x 512kB, ECC, 8-Vía(s), 64bytes Tamaño de la Línea, 2 Subproces(os)
+L3D - Caché de Datos/Unificado Tercer nivel : 16MB, ECC, 16-Vía(s), Completamente Inclusivo, 64bytes Tamaño de la Línea, 16 Subproces(os)
+Potencia nominal (TDP) : 65.00W
+
+Controlador de memoria
+Velocidad : 3.9GHz (95%)
+Velocidad Mínimo/Máximo/Turbo : 800MHz - 4.1GHz
+
+Hipervisor
+Nombre : Microsoft HyperV
+Versión : 10.0.19041.4894
+
+Características
+Tecnología SSE2 : Sí
+Tecnología SSE3 : Sí
+Tecnología SSE4.1 : Sí
+Tecnología SSE4.2 : Sí
+AES - Compatibilidad con la criptografía : Sí
+SHA - Accelerated Hashing Support : Sí
+AVX - Extensiones vectoriales avanzados : Sí
+FMA3 - Fused Multiply Add eXtensions : Sí
+AVX2 - Soporte para Advanced Vector eXtensions V2 : Sí
+AVX512/F - 512-bit Extensiones de Foundation Advanced Vector : Sí
+AVX512/DQ - AVX512 DoubleWord y QuadWord : Sí
+AVX512/BW - AVX512 Byte and Word : Sí
+AVX512/VNNI - Red neuronal vector : Sí
+HTT - Tecnología Hyper-Threading : Sí
+
+Sugerencias de mejoras de rendimiento
+Aviso 242 : Overlock/Turbo dinámico es comprometido. ¡El rendimiento no será consistente!
+Sugerencia 2 : Haga doble clic en la consejo o pulse Intro mientras que un consejo es seleccionado para obtener más información acerca de consejo.

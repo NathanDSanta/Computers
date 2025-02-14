@@ -1,0 +1,97 @@
+SiSoftware Sandra
+
+Benchmark Results
+Aggregate Native Performance : 111.35GOPS
+Dhrystone Integer Native AVX2 : 140.2GIPS
+Dhrystone Long Native AVX2 : 137.5GIPS
+Whetstone Single-float Native AVX/FMA : 92.4GFLOPS
+Whetstone Double-float Native AVX/FMA : 84.62GFLOPS
+
+Aggregate Native Performance
+Dhrystone Aggregated-int Native : 138.85GFLOPS
+Whetstone Aggregated-float Native : 88.43GFLOPS
+Results Interpretation : Higher Scores mean Better Performance.
+Decimal Numeral System (base 10) : 1GOPS = 1000MOPS, 1MOPS = 1000kOPS, 1kOPS = 1000OPS, etc.
+
+Performance per Thread
+Aggregate Native Performance : 13.92GOPS
+Dhrystone Integer Native : 17.52GIPS
+Dhrystone Long Native : 17.19GIPS
+Whetstone Single-float Native : 11.55GFLOPS
+Whetstone Double-float Native : 10.58GFLOPS
+No. Threads : 8
+Results Interpretation : Higher Scores mean Better Performance.
+Decimal Numeral System (base 10) : 1GOPS = 1000MOPS, 1MOPS = 1000kOPS, 1kOPS = 1000OPS, etc.
+
+Performance vs. Power
+Processor(s) Power : 28.00W
+Aggregate Native Performance : 3976.64MOPS/W
+Dhrystone Integer Native : 5007.39MIPS/W
+Dhrystone Long Native : 4910.86MIPS/W
+Whetstone Single-float Native : 3300.07MFLOPS/W
+Whetstone Double-float Native : 3022.21MFLOPS/W
+Results Interpretation : Higher Scores mean Better Performance.
+
+Performance vs. Speed
+Aggregate Native Performance : 27.13MOPS/MHz
+Dhrystone Integer Native : 34.16MIPS/MHz
+Dhrystone Long Native : 33.50MIPS/MHz
+Whetstone Single-float Native : 22.52MFLOPS/MHz
+Whetstone Double-float Native : 20.62MFLOPS/MHz
+Results Interpretation : Higher Scores mean Better Performance.
+
+Benchmark Status
+Result ID : 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz (4C 8T 4.1GHz/4.7GHz, 3.6GHz IMC, 4x 1.25MB L2, 12MB L3) (Microsoft HyperV)
+Microcode : MU068C01A4
+Computer : Lenovo 82A3 Yoga Slim 7 14ITL05 (Lenovo LNVNB161216)
+Platform Compliance : x64
+NUMA Support : No
+No. Threads : 8
+Processor Affinity : U0-C0T0 U2-C1T0 U4-C2T0 U6-C3T0 U1-C0T1 U3-C1T1 U5-C2T1 U7-C3T1 
+System Timer : 10MHz
+No. Runs : 64000 / 640
+
+Processor
+Model : 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz
+Speed : 4.1GHz
+Min/Max/Turbo Speed : 400MHz - 2.8GHz - 4.7GHz
+Multiplier Unlocked : Yes
+Cores per Processor : 4 Unit(s)
+Threads per Core : 2 Unit(s)
+Front-Side Bus Speed : 100MHz
+Type : Laptop/Netbook, Ultra-Low Power, Virtualised
+Revision/Stepping : 8C / 1
+Microcode : MU068C01A4
+L1D (1st Level) Data Cache : 4x 48kB, 12-Way, 64bytes Line Size, 2 Thread(s)
+L1I (1st Level) Code Cache : 4x 32kB, 8-Way, 64bytes Line Size, 2 Thread(s)
+L2 (2nd Level) Data/Unified Cache : 4x 1.25MB, ECC, 20-Way, 64bytes Line Size, 2 Thread(s)
+L3 (3rd Level) Data/Unified Cache : 12MB, ECC, 12-Way, 64bytes Line Size, 16 Thread(s)
+Rated Power (TDP) : 28.00W
+
+Memory Controller
+Speed : 3.6GHz (100%)
+Min/Max/Turbo Speed : 400MHz - 3.6GHz
+
+Hypervisor
+Name : Microsoft HyperV
+Version : 10.0.26100.2894
+
+Features
+SSE2 - Streaming SIMD Extensions v2 : Yes
+SSE3 - Streaming SIMD Extensions v3 : Yes
+SSE4.1 - Streaming SIMD Extensions v4.1 : Yes
+SSE4.2 - Streaming SIMD Extensions v4.2 : Yes
+AES - Accelerated Cryptography Support : Yes
+SHA - Accelerated Hashing Support : Yes
+AVX - Advanced Vector eXtensions : Yes
+FMA3 - Fused Multiply/Add eXtensions : Yes
+AVX2 - Advanced Vector eXtensions v2 : Yes
+AVX512/F - 512-bit Foundation Advanced Vector eXtensions : Yes
+AVX512/DQ - AVX512 DoubleWord and QuadWord : Yes
+AVX512/BW - AVX512 Byte and Word : Yes
+AVX512/VNNI - Vector Neural Network : Yes
+HTT - Hyper-Threading Technology : Yes
+
+Performance Enhancing Tips
+Notice 242 : Dynamic OverClocking/Turbo engaged. Performance will not be consistent!
+Tip 2 : Double-click tip or press Enter while a tip is selected for more information about the tip.
